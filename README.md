@@ -32,13 +32,15 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 <p align="center">
 <img width="460" height="300" src="/assets/print.PNG">
 <figcaption>
-<p align="center"> Linear fit for <b>double</b>.</p>
+<p align="center">Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
 </figcaption>
 </p>
 
-<figure>
-<img src="/assets/fit_doppie.png" class="center" height = "250" widht= "400"/>
+<p align="center">
+<img width="460" height="300" src="/assets/fit_doppie.png">
 <figcaption>
-  <p> Linear fit for <b>double</b>.</p>
+<p align="center">Linear fit for <b>double</b>.</p>
 </figcaption>
-</figure>
+</p>
+
+
