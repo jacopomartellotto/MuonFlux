@@ -29,8 +29,7 @@ r_squared = (correlation_xy**2)
 print('Coeffcient of determination - double (numpy):', r_squared)
 ``` 
 ### Results 
-<img src="/assets/print.PNG" align="right" Hspace="15" Vspace="0" 
-Border="0" height = "360" widht= "520"> The values of variance, covariance and parameters of the fit
+<img src="/assets/print.PNG" align="left" height = "250" widht= "400"> The values of variance, covariance and parameters of the fit
 
 
 ## My Final Relation
