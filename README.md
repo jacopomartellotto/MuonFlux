@@ -37,7 +37,7 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 </figure>
 
 <figure>
-<img src="/assets/fit_doppie.png" align="center" height = "250" widht= "400"/>
+<img src="/assets/fit_doppie.png" text-align="center" height = "250" widht= "400"/>
 <figcaption>
   <p> Linear fit for <b>double</b>.</p>
 </figcaption>
