@@ -1,4 +1,7 @@
 # International Cosmic Day
+The International Cosmic Day took place on November 10, 2021. On this day, the focus is on the science related to cosmic rays. These are invisible messengers from the cosmos that constantly permeate us, bringing messages that allow us to understand the Universe. 
+Furthermore, each participating student has the opportunity to draw up a report and participate in the competition, of which I was the winner, "Stage at the Frascati Laboratories".
+In the <a href="Relation.pdf">report</a> you can find a reference to the data analysis conducted in the laboratories, after the launch of a stratospheric balloon.
 ## Data analysis
 ### My implementetion
 ``` python
