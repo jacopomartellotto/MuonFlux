@@ -44,7 +44,7 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 </p>
 
 <p align="center">
-<img width="537.6" height="268.5" src="/assets/fit_doppie.png">
+<img width="768" height="383.5" src="/assets/fit_doppie.png">
 <figcaption>
 <p align="center">Linear fit for <b>double</b>.</p>
 </figcaption>
@@ -58,7 +58,7 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 </p>
 
 <p align="center">
-<img width="537.6" height="268.5" src="/assets/fit_quadruple.png">
+<img width="768" height="383.5" src="/assets/fit_quadruple.png">
 <figcaption>
 <p align="center">Linear fit for <b>quadruple</b>.</p>
 </figcaption>
