@@ -1,2 +1,2 @@
-title:  International Cosmic Day
+# International Cosmic Day
 ## Data analysis
