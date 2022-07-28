@@ -29,19 +29,15 @@ r_squared = (correlation_xy**2)
 print('Coeffcient of determination - double (numpy):', r_squared)
 ``` 
 ### Results 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<p align="center">
+  <figure>
+    <img src="/assets/print.PNG" class="center" height = "250" widht= "400"/>
+      <figcaption>
+        <p>Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
+      </figcaption>
+   </figure>
+</p>
 
-<figure>
-<img src="/assets/print.PNG" class="center" height = "250" widht= "400"/>
-<figcaption>
-<p>Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
-</figcaption>
-</figure>
 
 <figure>
 <img src="/assets/fit_doppie.png" class="center" height = "250" widht= "400"/>
