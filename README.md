@@ -31,6 +31,6 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 ### Results 
 <img src="/assets/print.PNG" align="left" height = "250" widht= "400"> <br>
 <img src="/assets/plot.png" align="right" height = "250" widht= "400"> <br>
-<img src="/assets/fit_doppie.png" align="left" height = "250" widht= "400" hspace=”100px″> <br>
-<img src="/assets/fit_triple.png" align="right" height = "250" widht= "400" hspace=”3px″> <br>
+<img src="/assets/fit_doppie.png" align="left" hspace=”100px″> <br>
+<img src="/assets/fit_triple.png" align="right" hspace=”100px″> <br>
 
