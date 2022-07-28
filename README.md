@@ -32,6 +32,13 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 <figure>
 <img src="/assets/print.PNG" align="center" height = "250" widht= "400"/>
 <figcaption>
-<p style="text-align:center;">Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b> .</p>
+<p>Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
+</figcaption>
+</figure>
+
+<figure>
+<img src="/assets/fir_doppie.png" align="center" height = "250" widht= "400"/>
+<figcaption>
+<p>Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
 </figcaption>
 </figure>
