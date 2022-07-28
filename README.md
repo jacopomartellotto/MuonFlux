@@ -1,9 +1,7 @@
 # International Cosmic Day
 ## Data analysis
 ### My implementetion
-``` 
-python
-
+``` python
 #variance
 dataset = [rate_double]
 variance = np.var(dataset)
