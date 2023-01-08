@@ -40,31 +40,3 @@ print('Coeffcient of determination - double (numpy):', r_squared)
 <p align="center">Console print of the value of <b>variance</b>, <b>covariance</b>, <b>parameters of the fit</b>.</p>
 </figcaption>
 </p>
-
-<p align="center">
-<img width="460" height="300" src="/assets/plot.png">
-<figcaption>
-<p align="center"><b>Plot</b>.</p>
-</figcaption>
-</p>
-
-<p align="center">
-<img width="460" height="300" src="/assets/fit_doppie.png">
-<figcaption>
-<p align="center">Linear fit for <b>double</b>.</p>
-</figcaption>
-</p>
-
-<p align="center">
-<img width="460" height="300" src="/assets/fit_triple.png">
-<figcaption>
-<p align="center">Linear fit for <b>triple</b>.</p>
-</figcaption>
-</p>
-
-<p align="center">
-<img width="460" height="300" src="/assets/fit_quadruple.png">
-<figcaption>
-<p align="center">Linear fit for <b>quadruple</b>.</p>
-</figcaption>
-</p>
